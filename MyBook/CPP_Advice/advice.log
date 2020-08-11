@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.6.4)  9 AUG 2020 08:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.6.4)  11 AUG 2020 12:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,7 +683,12 @@ Overfull \hbox (41.42647pt too wide) in paragraph at lines 56--116
 под-клю-че-ния "си-стем-ных"заголовочных
  []
 
-[2] [3] [4] (./advice.aux) ) 
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 130--136
+
+ []
+
+[4] (./advice.aux) ) 
 Here is how much of TeX's memory you used:
  1925 strings out of 494397
  20982 string characters out of 6172289
@@ -692,15 +697,15 @@ Here is how much of TeX's memory you used:
  10471 words of font info for 28 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  23i,8n,23p,1334b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/
-lh/lh-t2a/lati1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/
-lh-t2a/larm1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-
-t2a/labx1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a
-/larm1200.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/la
-rm1728.600pk>
-Output written on advice.pdf (5 pages, 77600 bytes).
+ </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2
+a/lati1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/l
+arm1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx
+1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm120
+0.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.6
+00pk>
+Output written on advice.pdf (5 pages, 79321 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
+ 265 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
