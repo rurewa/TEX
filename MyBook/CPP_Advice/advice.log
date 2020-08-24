@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.6.4)  11 AUG 2020 12:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.6.4)  18 AUG 2020 07:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -591,6 +591,35 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip43
 \backup@length=\skip44
 )
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\lst@mode=\count90
+\lst@gtempboxa=\box26
+\lst@token=\toks20
+\lst@length=\count91
+\lst@currlwidth=\dimen106
+\lst@column=\count92
+\lst@pos=\count93
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count94
+\lst@lineno=\count95
+\lst@maxwidth=\dimen109
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count96
+\lst@skipnumbers=\count97
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
 
 LaTeX Warning: Unused global option(s):
     [16pt].
@@ -598,115 +627,117 @@ LaTeX Warning: Unused global option(s):
 (./advice.aux)
 \openout1 = `advice.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+\c@lstlisting=\count98
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 14.
+(Font)              <12> on input line 15.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
+(Font)              <6> on input line 15.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
 [1]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 56.
+(Font)              <7> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 56.
+(Font)              <5> on input line 61.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
+Underfull \hbox (badness 10000) in paragraph at lines 61--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
+Underfull \hbox (badness 10000) in paragraph at lines 61--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--116
-
- []
-
-
-Overfull \hbox (41.42647pt too wide) in paragraph at lines 56--116
-\T2A/cmr/bx/n/10 Правило: \T2A/cmr/m/n/10 Ис-поль-зуй-те уг-ло-вые скоб-ки для 
-под-клю-че-ния "си-стем-ных"заголовочных
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 130--136
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 
  []
 
-[4] (./advice.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--182
+
+ []
+
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 187
+.
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+
+Overfull \hbox (59.1513pt too wide) in paragraph at lines 201--201
+[]\T2A/cmtt/m/n/10 const int ZERO\_FIELD\_CODE = 451; // код ошибки в случае ну
+левой ячейки поля[] 
+ []
+
+[4]
+Overfull \hbox (59.1513pt too wide) in paragraph at lines 242--242
+[]    \T2A/cmtt/m/n/10 else for (int i = 0; i < freeCells.size(); i++) freeCell
+s[i].calcValue();[] 
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 262--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--300
+
+ []
+
+[6] (./advice.aux) ) 
 Here is how much of TeX's memory you used:
- 1925 strings out of 494397
- 20982 string characters out of 6172289
- 85365 words of memory out of 5000000
- 5233 multiletter control sequences out of 15000+600000
- 10471 words of font info for 28 fonts, out of 8000000 for 9000
+ 3310 strings out of 494397
+ 40986 string characters out of 6172289
+ 102167 words of memory out of 5000000
+ 6594 multiletter control sequences out of 15000+600000
+ 11600 words of font info for 30 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 23i,8n,23p,1334b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,8n,32p,1335b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2
-a/lati1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/l
-arm1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx
-1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm120
-0.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.6
-00pk>
-Output written on advice.pdf (5 pages, 79321 bytes).
+a/latt1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/l
+ati1000.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx
+1200.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm100
+0.600pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.6
+00pk> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600p
+k> </home/rus/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk>
+Output written on advice.pdf (8 pages, 123154 bytes).
 PDF statistics:
- 265 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 427 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
