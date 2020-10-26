@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.30)  30 AUG 2020 09:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.30)  26 OCT 2020 07:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -439,12 +439,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 318--324
 
  []
 
-[6] (./advice.aux) ) 
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 333--336
+
+ []
+
+[7] (./advice.aux) ) 
 Here is how much of TeX's memory you used:
- 3495 strings out of 482657
- 50391 string characters out of 5957838
+ 3496 strings out of 482657
+ 50406 string characters out of 5957838
  287239 words of memory out of 5000000
- 18488 multiletter control sequences out of 15000+600000
+ 18489 multiletter control sequences out of 15000+600000
  540298 words of font info for 40 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  28i,8n,36p,1335b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -456,10 +461,10 @@ m1000.600pk> </home/user/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1
 000.600pk> </home/user/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm120
 0.600pk> </home/user/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.
 600pk>
-Output written on advice.pdf (8 pages, 122908 bytes).
+Output written on advice.pdf (9 pages, 124150 bytes).
 PDF statistics:
- 426 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 430 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
