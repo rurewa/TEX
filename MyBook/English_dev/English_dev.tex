@@ -1,0 +1,34 @@
+\documentclass[a4paper,16pt]{article} % Формат А4 и размер шрифта
+\usepackage[pdftex,unicode, colorlinks=true, linkcolor = blue]{hyperref} % нумерование страниц, ссылки!!!!ИМЕННО В ТАКОМ ПОРЯДКЕ СО СЛЕДУЮЩИМ ПАКЕТОМ
+\usepackage{cmap} % поиск в PDF
+\usepackage[T2A]{fontenc} % кодировка
+\usepackage[utf8]{inputenc} % кодировка исходного кода
+\usepackage[english,russian]{babel} % локализаци и переносы
+\usepackage{verbatim} % для длинных комментариев
+\usepackage{array}
+\usepackage{listings} % для вставки кода cpp
+\usepackage{lscape}
+%opening
+\title{English-russian distonary for developer}
+\date{\today} % текущая дата
+\author{Александр Изотов}
+
+\begin{document}
+	% \begin{landscape}
+	%\maketitle % создаёт титульный лист
+	%\clearpage % новая страница
+	\begin{center}
+		\textbf{General}
+	\end{center}
+	\begin{tabular}{ | l | r |}
+		\raggedright
+		%\hline
+		software & программное обеспечение \\ \hline
+		application & приложение, программа \\ \hline
+		data & данные, информация \\ \hline
+		freeware & бесплатное ПО \\ \hline
+		open source & ПО с открытым исходным кодом \\
+		%\hline
+	\end{tabular}
+	% \end{landscape}
+\end{document}
