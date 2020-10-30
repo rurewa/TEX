@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.30)  30 OCT 2020 05:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.30)  30 OCT 2020 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -472,9 +472,9 @@ lh-t2a/latt1000.600pk> </home/user/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh
 abx1000.600pk> </home/user/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lar
 m1200.600pk> </home/user/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1
 728.600pk>
-Output written on advice.pdf (9 pages, 124068 bytes).
+Output written on advice.pdf (9 pages, 127119 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
+ 441 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
